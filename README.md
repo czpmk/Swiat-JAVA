@@ -6,3 +6,5 @@ Każde pole planszy może być zajmowane przez 1 organizm jednocześnie. W każd
 specyficzną dla określonego gatunku (przemieszcznenie, zasianie nowej rośliny, walka itp). 
 
 Interfejs graficzny zrealizowany przy pomocy biblioteki Swing.
+
+![alt text](https://github.com/czpmk/Swiat-JAVA/blob/master/gui.png?raw=true "Podgląd")
